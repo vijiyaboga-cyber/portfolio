@@ -11,14 +11,15 @@ Welcome to my technical portfolio! I am a passionate Bachelor of Computer Applic
 ## 🚀 Technical Core Projects
 
 ### 1. Student Records Manager (Full-Stack CRUD Web App)
-* **Live Repository:** https://github.com/vijiyaboga-cyber/BCA-Student-CRUD-Application
+* **Live Repository:** [github.com/vijiyaboga-cyber/BCA-Student-CRUD-Application](https://github.com/vijiyaboga-cyber/BCA-Student-CRUD-Application)
 * **Tech Stack:** Node.js, Express.js, HTML5, Responsive CSS3, StackBlitz WebContainers
 * **Core Functionality:** Developed a responsive full-stack web infrastructure utilizing Express routing logic to process dynamic dataset actions. Built end-to-end REST API endpoint layers (`GET`, `POST`) allowing smooth real-time creation, reading, and deletion of profile models.
 
-### 2. Netflix Catalog Data Analysis (SQL Analytics Engine)
-* **Live Repository:** https://github.com/vijiyaboga-cyber/Netflix-SQL-Data-Analysis
-* **Tech Stack:** SQL, SQLite Engine, RDBMS Architecture, Data Aggregation Matrices
-* **Core Functionality:** Engineered structural relational database queries on media production catalogs to isolate global distribution patterns. Executed complex analytics workflows utilizing aggregate constraints (`COUNT`, `GROUP BY`) and relational conditions (`WHERE`, `IN`) to translate unstructured variables into tidy, business-ready markdown reports.
+### 2. Netflix Catalog Data Dashboard (Live SQL Analytics Engine)
+* **Live Demo:** [vijiyaboga-cyber.github.io/Netflix-Data-Dashboard](https://vijiyaboga-cyber.github.io/Netflix-Data-Dashboard/)
+* **Live Repository:** [github.com/vijiyaboga-cyber/Netflix-Data-Dashboard](https://github.com/vijiyaboga-cyber/Netflix-Data-Dashboard)
+* **Tech Stack:** SQL Data Logic, Tailwind CSS, HTML5, Chart.js Engine, Responsive Data Visualization
+* **Core Functionality:** Engineered structural relational database queries on media production catalogs to isolate global distribution patterns. Built a live, animated data dashboard that maps backend tabular aggregations (`COUNT`, `GROUP BY`, `WHERE`) onto interactive glassmorphic charts to translate metrics into consumer-ready corporate UI layouts.
 
 ---
 
@@ -26,7 +27,7 @@ Welcome to my technical portfolio! I am a passionate Bachelor of Computer Applic
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Core Programming & Web** | JavaScript (ES6+), Node.js, Express.js, HTML5, CSS3, Basic Python |
+| **Core Programming & Web** | JavaScript (ES6+), Node.js, Express.js, HTML5, CSS3, Tailwind CSS, Chart.js |
 | **Database Architectures** | SQL, SQLite, Relational Database Design (RDBMS), DBMS Theories |
 | **System Administration** | Windows Operating Environments, Basic Linux Terminal Commands |
 
@@ -42,6 +43,3 @@ Welcome to my technical portfolio! I am a passionate Bachelor of Computer Applic
   * *Stream:* Commerce
 
 ---
-
-## 🎯 Career Objective
-Eager to leverage these hands-on full-stack and database projects in an entry-level Graduate Engineer Trainee (GET), Application Support, or Junior Analyst role within a progressive technology team.
